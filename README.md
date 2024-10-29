@@ -1,6 +1,3 @@
-Here's a comprehensive `README.md` for learning Solidity. This README covers basic concepts, advanced features, and resources to further your knowledge in writing secure and efficient smart contracts.
-
----
 
 # Solidity - Smart Contract Programming Language
 
